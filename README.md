@@ -1,1 +1,1 @@
-这是一个各种demo的集合
+study model
