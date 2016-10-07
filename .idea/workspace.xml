@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0816ed1b-a4c5-4d39-9d5a-b03723cc1e2f" name="Default" comment="" />
+    <list default="true" id="0816ed1b-a4c5-4d39-9d5a-b03723cc1e2f" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\studycenter\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_101tec_zkclient_0_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_alibaba_dubbo_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_google_code_findbugs_jsr305_2_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_google_guava_guava_19_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_netflix_archaius_archaius_core_0_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_netflix_hystrix_hystrix_core_1_3_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_netflix_rxjava_rxjava_core_0_18_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__commons_configuration_commons_configuration_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__junit_junit_3_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__log4j_log4j_1_2_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_apache_kafka_kafka_2_10_0_8_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_javassist_javassist_3_15_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_scala_lang_scala_library_2_10_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_aop_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_aspects_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_beans_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_context_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_core_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_expression_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_web_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_springframework_spring_webmvc_4_2_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__org_xerial_snappy_snappy_java_1_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\libraries\Maven__redis_clients_jedis_2_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\studycenter\studycenter.iml" afterPath="" />
+    </list>
     <ignored path="studycenter.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +94,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7910959" vertical-offset="0" max-vertical-offset="836">
+            <state vertical-scroll-proportion="0.40701753" vertical-offset="230" max-vertical-offset="836">
               <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding />
             </state>
@@ -67,6 +122,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,7 +224,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,6 +245,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,7 +619,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -574,7 +632,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25340393" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25340393" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1011,7 +1069,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7910959" vertical-offset="0" max-vertical-offset="836">
+        <state vertical-scroll-proportion="0.40701753" vertical-offset="230" max-vertical-offset="836">
           <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding />
         </state>
