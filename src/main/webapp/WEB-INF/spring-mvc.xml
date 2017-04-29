@@ -9,14 +9,23 @@
     <!-- 启用spring mvc 注解 -->
     <context:annotation-config/>
     <!-- 设置使用注解的类所在的jar包 -->
-    <context:component-scan base-package="com.study"></context:component-scan>
+    <context:component-scan base-package="com.study" />
     <!-- 对转向页面的路径解析。prefix：前缀， suffix：后缀 -->
     <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
         <property name="prefix" value="/WEB-INF/view/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
-    
+
+    <mvc:annotation-driven>
+        <mvc:message-converters register-defaults="true">
+            <!-- 将StringHttpMessageConverter的默认编码设为UTF-8 -->
+            <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+                <constructor-arg value="UTF-8"/>
+            </bean>
+        </mvc:message-converters>
+    </mvc:annotation-driven>
+
     <mvc:annotation-driven >
         <mvc:return-value-handlers>
             <bean class="com.study.resolver.SelfReturnHandler" />
